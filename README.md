@@ -1,6 +1,6 @@
 # MCP Tool Chainer
 
-[![Visit Third Strand Studio](https://img.shields.io/badge/Visit-Third%20Strand%20Studio-blue)](https://thirdstrandstudio.com/products/mcp-chain)
+[![Visit Third Strand Studio](https://img.shields.io/badge/Visit-Third%20Strand%20Studio-blue)](https://tss.topiray.com/products/mcp-chain)
 
 An MCP (Model Context Protocol) server that chains calls to other MCP tools, reducing token usage by allowing sequential tool execution with result passing.
 Designed to solve [https://github.com/modelcontextprotocol/specification/issues/215](https://github.com/modelcontextprotocol/specification/issues/215)
@@ -180,4 +180,4 @@ This MCP server is licensed under the MIT License.
 
 ---
 
-Created by [Third Strand Studio](https://thirdstrandstudio.com/products/mcp-chain)
+Created by [Third Strand Studio](https://tss.topiray.com/products/mcp-chain)
